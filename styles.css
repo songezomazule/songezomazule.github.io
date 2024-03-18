@@ -126,6 +126,19 @@ main {
   text-align: center;
 }
 
+.cv {
+  font-size: large;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.cv:hover {
+  background-color: #0056b3;
+}
+
 /* skills section styles */
 #skills {
   background-color: #fff;
@@ -163,6 +176,7 @@ main {
 .backend h3 {
   padding-top: 10px;
 }
+
 
 /* Projects section styles */
 #projects {
